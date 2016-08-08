@@ -4,10 +4,10 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default']['dsn'] = '';
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'your database username';
-$db['default']['password'] = 'your database password';
-$db['default']['database'] = 'your database name';
+$db['default']['hostname'] = 'eu-cdbr-west-01.cleardb.com';
+$db['default']['username'] = 'b78ea69e48464d';
+$db['default']['password'] = '682bba09';
+$db['default']['database'] = 'heroku_ef18fa3e596706c';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = 'ti_';
 $db['default']['pconnect'] = TRUE;
