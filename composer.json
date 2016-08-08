@@ -17,8 +17,5 @@
     "irc": "irc://irc.freenode.net/tastyigniter",
     "docs": "https://docs.tastyigniter.com",
     "source": "https://github.com/tastyigniter/TastyIgniter"
-  },
-  "require": {
-    "php": ">=5.4.0"
   }
 }
