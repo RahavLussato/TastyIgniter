@@ -19,6 +19,7 @@
     "source": "https://github.com/tastyigniter/TastyIgniter"
   },
    "require": {
+        "php": ">=5.4.0",
         "ext-gd": "*"
     }
 }
